@@ -4,6 +4,8 @@
     box-sizing: border-box; 
 }
 
+/* Modo Escuro */
+
 :root {
     --text-color: white;
     --bg-url: url(./img/bg-mobile.jpg);
@@ -13,6 +15,8 @@
     --highlight-color: rgba(255, 255, 255, 0.2);
     --switch-bg-url: url(./img/Moonstars.svg);
 }
+
+/* Modo claro */
 
 .light {
     --text-color: black;
